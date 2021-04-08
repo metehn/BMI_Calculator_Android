@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI_Calculator_Android</string>
+    <string name="calculator">Calculator</string>
+    <string name="bmi">BMI</string>
+</resources>
